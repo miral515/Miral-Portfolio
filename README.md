@@ -18,7 +18,7 @@
 
 | Technology | Purpose |
 |------------|---------|
-| HTML5 | Structure |
+| HTML | Structure |
 | CSS3 | Styling & animations |
 | JavaScript | Interactions & scroll effects |
 | Google Fonts | Orbitron + Share Tech Mono |
@@ -43,7 +43,7 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/miral515/Miral-Portfolio.git>
    ```
 
 2. Open the project folder.
